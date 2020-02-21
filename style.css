@@ -1,0 +1,22 @@
+body{
+	background-image: url("keyboard_backlight_red_136083_2560x1440.jpg")
+}
+input{
+	font-size: 20px; 
+}
+#ac:focus{
+	background-color: black;
+	color: white;
+}
+#bc:focus{
+	background-color: black;
+	color: white;
+}
+@media  screen and(max-width: 600px){
+	input{
+		font-size: 34px;
+	}
+}
+p{
+	color: white;
+}
