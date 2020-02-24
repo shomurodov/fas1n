@@ -4,6 +4,9 @@ body{
 input{
 	font-size: 20px; 
 }
+h3{
+color: white;
+}
 #ac:focus{
 	background-color: black;
 	color: white;
